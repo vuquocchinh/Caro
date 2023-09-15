@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/model/ChatItem.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/scene/Profile.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/helper/CustumDateTimeFormatter.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/asset/icons8_add_24px.png</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/asset/icons8_anime_emoji_24px.png</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/scene/ConnectServer.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/DB/Layers/DBConnector/MysqlConnector.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/controller/Admin.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/helper/Validation.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/DB/Layers/DTO/GameMatch.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/controller/ClientManager.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/DB/Layers/DTO/Player.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/security/RSA.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/game/caro/Caro.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/DB/Layers/BUS/PlayerBUS.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/DB/Layers/DBConnector/DB_structure.txt</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/controller/Room.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/game/caro/TestTimerCaro.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/helper/LookAndFeel.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/RunClient.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/DB/Layers/DAL/GameMatchDAL.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/helper/RandomString.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/scene/Signup.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/game/caro/History.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/security/RSAGenerator.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/controller/Client.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/controller/SocketHandler.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/scene/InGame.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/model/PlayerInGame.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/game/GameLogic.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/security/AES.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/DB/Layers/BUS/GameMatchBUS.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/helper/MyHash.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/model/CurrentGame.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/constant/Avatar.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/scene/MainMenu.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/helper/PlayerInRoomCustomRenderer.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/helper/WorkWithFile.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/scene/ChangePassword.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/view/scene/Login.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/helper/CountDownTimer.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/helper/Line.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/DB/Layers/DAL/PlayerDAL.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/RunServer.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Server/controller/RoomManager.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Shared/helper/Point.java</file>
+            <file>file:/D:/Worskspace/Hutech/LTMMT/Caro/CaroOnline_SocketJava/src/Client/model/ProfileData.java</file>
+        </group>
+    </open-files>
+</project-private>
